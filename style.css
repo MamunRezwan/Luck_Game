@@ -1,0 +1,12 @@
+h1{
+    color:blue
+}
+
+.container {
+    width: 70vw;
+    margin: 0 auto;
+  }
+
+  .input {
+    margin-bottom: 1rem;
+  }
